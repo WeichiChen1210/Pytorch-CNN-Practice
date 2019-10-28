@@ -1,3 +1,4 @@
 cifar-10-batches-py/
 resource/
 *.tar.gz
+.ipynb_checkpoints/
